@@ -38,9 +38,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Augusto120204/Augusto120204/output/snake.svg" alt="Snake animation" />
-
-###
